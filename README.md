@@ -4,7 +4,7 @@
 - Express is a web framework that works in combination with Node.js (a web server) to make APIs!
 
 ## Installation
-- Installing node. [View Docs Here](https://www.npmjs.com/package/nodemon)
+- Installing node. 
 - Note: you may need to install brew
 ```
 brew install node
@@ -13,7 +13,7 @@ brew install node
 ```
 npm install -g express-generator
 ```
-- Installing nodemon
+- Installing nodemon. [View Docs Here](https://www.npmjs.com/package/nodemon)
 ```
 npm install -g nodemon
 ```
