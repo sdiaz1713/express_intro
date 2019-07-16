@@ -4,12 +4,12 @@
 - Express is a web framework that works in combination with Node.js (a web server) to make APIs!
 
 ## Installation
-- Installing node. ![View Docs Here](https://www.npmjs.com/package/nodemon)
+- Installing node. [View Docs Here](https://www.npmjs.com/package/nodemon)
 - Note: you may need to install brew
 ```
 brew install node
 ```
-- Installing express app generator globally. ![View Docs Here](https://expressjs.com/en/starter/generator.html)
+- Installing express app generator globally. [View Docs Here](https://expressjs.com/en/starter/generator.html)
 ```
 npm install -g express-generator
 ```
