@@ -1,4 +1,4 @@
-export default userData = {
+module.exports = {
     Steph: {
         favoriteColor: 'black',
         favoriteFood: 'tacos',
